@@ -372,9 +372,14 @@ nav .fas{
         background-size: cover;
         background-position: center;
     }
-    .header-text{
-        margin-top: 115%;
+   .header-text{
+        margin-top: 70%;
         font-size: 16px;
+        font-weight: 500;
+      
+    }
+    .header-text p{
+        width: 40%;
     }
     .header-text h1{
         font-size: 30px;
