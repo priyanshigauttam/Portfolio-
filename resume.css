@@ -371,6 +371,7 @@ nav .fas{
         background-image: url(ddp.png);
         background-size: cover;
         background-position: center;
+        
     }
    .header-text{
         margin-top: 110%;
@@ -378,11 +379,10 @@ nav .fas{
         font-weight: 500;
       
     }
-    .header-text p{
-        width: 40%;
-    }
+
     .header-text h1{
         font-size: 30px;
+        color:#ff004f;
     }
     nav .fas{
         display: block;
