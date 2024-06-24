@@ -374,10 +374,12 @@ nav .fas{
         
     }
    .header-text{
-        margin-top: 110%;
+        margin-top: 150%;
         font-size: 16px;
         font-weight: 500;
-      
+    }
+        .header-text p{
+        width: 40%;
     }
 
     .header-text h1{
